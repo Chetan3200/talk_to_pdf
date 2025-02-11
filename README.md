@@ -44,6 +44,13 @@ ollama pull llama3.2:1b
 ollama pull nomic-embed-text:latest
 ```
 
+#### 4. Running the Application:
+
+- Start the Streamlit App
+
+```sh
+streamlit run audio2audio.py
+```
 ---
 
 Your application is now ready to run!
